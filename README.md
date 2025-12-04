@@ -17,7 +17,7 @@ A strong demonstration of rapid prototyping and VR development skills.
 
 ---
 
-# 📌 1. Project Overview
+# 📌 Project Overview
 
 During the workshop, participants were challenged to design a working VR experience in under 48 hours.  
 This project evolved into a **farming simulation**, letting players interact directly with seeds, soil, water, and plant growth systems.
@@ -41,13 +41,13 @@ This project evolved into a **farming simulation**, letting players interact dir
 
 ---
 
-# 🧠 2. Game Design & Mechanics
+# 🧠 Game Design & Mechanics
 
 A simplified but interactive agricultural lifecycle.
 
 ---
 
-## 🌱 2.1 Seed Planting System
+## 🌱 Seed Planting System
 
 Seed objects act as **XR Grab Interactables**:
 - Pick-up using VR controller grip  
@@ -63,7 +63,7 @@ Script-driven planting logic:
 
 ---
 
-## 💧 2.2 Watering Mechanism — Functional VR Tool
+## 💧 Watering Mechanism — Functional VR Tool
 
 The watering can uses:
 - XR Grab Interactable  
@@ -75,7 +75,7 @@ Plant receives `Water()` calls when hit by water spray, enabling growth progress
 
 ---
 
-## 🌿 2.3 Plant Growth Lifecycle
+## 🌿 Plant Growth Lifecycle
 
 Each plant transitions through:
 
@@ -92,7 +92,7 @@ Growth rules:
 
 ---
 
-# 🧩 3. Core C# Scripts
+# 🧩 Core C# Scripts
 
 ### ✔ 3.1 WaterCan.cs  
 Responsible for:
@@ -104,7 +104,7 @@ Responsible for:
 
 ---
 
-### ✔ 3.2 Seeds.cs  
+### ✔ Seeds.cs  
 Controls:
 - Seed pick/drop behavior  
 - Soil collision detection  
@@ -114,7 +114,7 @@ Controls:
 
 ---
 
-### ✔ 3.3 Plant.cs  
+### ✔ Plant.cs  
 Manages:
 - Current growth stage  
 - Timed stage transitions  
@@ -124,7 +124,7 @@ Manages:
 
 ---
 
-### ✔ 3.4 Ground.cs  
+### ✔ Ground.cs  
 Handles:
 - Soil collision logic  
 - Detection of seed drops  
@@ -134,7 +134,7 @@ Handles:
 
 ---
 
-# 🖼 4. Media & Visual Demonstrations
+# 🖼 Media & Visual Demonstrations
 
 > Place all assets inside the `/media` folder.
 
@@ -150,7 +150,7 @@ These help present the project effectively on GitHub.
 
 ---
 
-# 🕹 5. XR Interaction Toolkit Setup
+# 🕹 XR Interaction Toolkit Setup
 
 ### 🎯 XR Rig Components
 - **XR Origin**  
@@ -172,7 +172,7 @@ These help present the project effectively on GitHub.
 
 ---
 
-# 🛠 6. Tools & Technology Stack
+# 🛠 Tools & Technology Stack
 
 - **Unity 2021/2022 LTS**  
 - **XR Interaction Toolkit**  
@@ -185,7 +185,7 @@ These help present the project effectively on GitHub.
 
 ---
 
-# 📦 7. Project Structure
+# 📦 Project Structure
 
 ```
 vr-mini-game-jio-tesseract/
@@ -219,7 +219,7 @@ vr-mini-game-jio-tesseract/
 
 ---
 
-# 🏅 8. Achievements
+# 🏅 Achievements
 
 ### ✔ Completed official **Jio Tesseract XR Training Program**  
 ### ✔ Built an entire VR game in **less than 48 hours**  
@@ -240,7 +240,7 @@ A standout project for XR/VR portfolios.
 
 ---
 
-# 🚀 9. Future Improvements
+# 🚀 Future Improvements
 
 - 🌧 Dynamic weather (rain, storms, clouds)  
 - 🌗 Day–Night lighting cycle  
@@ -253,7 +253,7 @@ A standout project for XR/VR portfolios.
 
 ---
 
-# 🧑‍💻 10. Author
+# 📬 Contact
 
 **Arnav Saxena**  
 AI/ML • Computer Vision • XR/VR • Robotics • Agri-Tech  
