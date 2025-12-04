@@ -1,0 +1,7 @@
+This project uses Unity XR Interaction Toolkit (XRI) with the following setup:
+- XR Origin (Camera + Controllers)
+- Left Hand Controller: XR Ray Interactor + Line Renderer
+- Right Hand Controller: XR Ray Interactor + Line Renderer
+- Direct Interactor for grabbing objects
+- Input Action Manager for controller bindings
+- Interaction Layer Masks for Seeds, WaterCan, and Plant objects
