@@ -94,7 +94,7 @@ Growth rules:
 
 # 🧩 Core C# Scripts
 
-### ✔ 3.1 WaterCan.cs  
+### ✔ WaterCan.cs  
 Responsible for:
 - Detecting pick-up events  
 - Enabling/disabling water particle spray  
@@ -136,17 +136,32 @@ Handles:
 
 # 🖼 Media & Visual Demonstrations
 
-> Place all assets inside the `/media` folder.
+### 🎮 Gameplay Screenshots
 
-### 🎥 Suggested Video Demo  
-- Full gameplay recording (MP4)
+![Gameplay 1](media/gameplay_1.png)  
+![Gameplay 2](media/gameplay_2.png)  
+![Gameplay 3](media/gameplay_3.png)  
+![Gameplay 4](media/gameplay_4.png)
 
-### 🖼 Screenshots
-- **4 gameplay screenshots**  
-- **2 Unity hierarchy screenshots**  
-- **2 environment setup screenshots**  
+---
 
-These help present the project effectively on GitHub.
+### 🏗 Unity Hierarchy Screenshots
+
+![Hierarchy 1](media/hierarchy_1.png)  
+![Hierarchy 2](media/hierarchy_2.png)
+
+---
+
+### 🌄 Environment Setup Screenshots
+
+![Setup 1](media/setup_1.png)  
+![Setup 2](media/setup_2.png)
+
+---
+
+### 🎥 Video Demonstration  
+*(Video exists but GitHub does not preview MP4 inline — user must click)*  
+**`media/demo_video.mp4`**
 
 ---
 
@@ -259,5 +274,3 @@ A standout project for XR/VR portfolios.
 AI/ML • Computer Vision • XR/VR • Robotics • Agri-Tech  
 📧 Email: **arnav12saxena@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/arnav-saxena-a9a217367**  
-
----
